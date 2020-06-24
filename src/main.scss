@@ -1,0 +1,34 @@
+body {
+  background: rgb(71, 177, 212);
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  border: dotted;
+  table-layout: fixed;
+  size: 50%;
+}
+
+th, td {
+  text-align: center;
+  font-size: 65px;
+  width: 50px;
+  
+  height: 50px;
+  border: dotted;
+}
+
+#result {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 35px;
+}
+
+#reset {
+  text-align: center;
+  
+}
